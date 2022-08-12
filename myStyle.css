@@ -25,11 +25,19 @@ text-align: center;
     
 } 
 #lorep{position: relative;
+    clear: right;
       }
+#sorem{position: relative;
+    clear: right;
+      }
+#zepin{position: relative;
+        clear: right;
+          }
 #Sorem{background-color: #bebdbd;
     margin: 10px;
     border: solid black 2px;
     padding: 10px;
+    
 }
 #secondH1{
     background-color: hsl(128, 87%, 42%);
